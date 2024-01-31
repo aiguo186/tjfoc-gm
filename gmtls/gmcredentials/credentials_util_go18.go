@@ -15,7 +15,7 @@ limitations under the License.
 
 package gmcredentials
 
-import gmtls "github.com/aiguo187/tjfoc-gm/gmtls"
+import gmtls "github.com/aiguo186/tjfoc-gm/gmtls"
 
 // cloneTLSConfig returns a shallow clone of the exported
 // fields of cfg, ignoring the unexported sync.Once, which
@@ -23,9 +23,9 @@ import gmtls "github.com/aiguo187/tjfoc-gm/gmtls"
 //
 // If cfg is nil, a new zero tls.Config is returned.
 func cloneTLSConfig(cfg *gmtls.Config) *gmtls.Config {
-	if cfg == nil {
-		return &gmtls.Config{}
-	}
+    if cfg == nil {
+        return &gmtls.Config{}
+    }
 
-	return cfg.Clone()
+    return cfg.Clone()
 }

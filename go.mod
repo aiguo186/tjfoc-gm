@@ -1,4 +1,4 @@
-module github.com/aiguo187/tjfoc-gm
+module github.com/aiguo186/tjfoc-gm
 
 go 1.14
 

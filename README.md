@@ -3,7 +3,7 @@
 GM SM2/3/4 library based on Golang
 =======
 
-[![Build Status](https://travis-ci.com/aiguo187/tjfoc-gm.svg?branch=master)](https://travis-ci.com/github/aiguo187/tjfoc-gm)
+[![Build Status](https://travis-ci.com/aiguo186/tjfoc-gm.svg?branch=master)](https://travis-ci.com/github/aiguo186/tjfoc-gm)
 
 
 ## Feature
@@ -30,11 +30,11 @@ GM SM2/3/4 library based on Golang
 ## Communication
 tjfoc国密交流 
    
-[![Join the chat at https://gitter.im/aiguo187/tjfoc-gm](https://badges.gitter.im/aiguo187/tjfoc-gm.svg)](https://gitter.im/aiguo187/tjfoc-gm?utm_source=badge&utm_medium=badge&utm_campaign=-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/aiguo186/tjfoc-gm](https://badges.gitter.im/aiguo186/tjfoc-gm.svg)](https://gitter.im/aiguo186/tjfoc-gm?utm_source=badge&utm_medium=badge&utm_campaign=-badge&utm_content=badge)
 
 
 - 如果你对国密算法开源技术及应用感兴趣，欢迎添加“苏州同济区块链研究院·小助手“微信，回复“国密算法进群”，加入“同济区块链国密算法交流群”。微信二维码如下:  
-     ![微信二维码](https://github.com/aiguo187/wutongchian-public/blob/master/wutongchain.png)
+     ![微信二维码](https://github.com/aiguo186/wutongchian-public/blob/master/wutongchain.png)
 
 - 发送邮件到tj@wutongchain.com
  
