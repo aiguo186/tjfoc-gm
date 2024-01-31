@@ -25,7 +25,7 @@ import (
 	"crypto/sha256"
 	"hash"
 
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/aiguo187/tjfoc-gm/x509"
 
 	"golang.org/x/crypto/chacha20poly1305"
 )

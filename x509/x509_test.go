@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tjfoc/gmsm/sm2"
+	"github.com/aiguo187/tjfoc-gm/sm2"
 )
 
 func TestX509(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/tjfoc/gmsm
+module github.com/aiguo187/tjfoc-gm
 
 go 1.14
 

@@ -29,7 +29,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/aiguo187/tjfoc-gm/x509"
 )
 
 type clientHandshakeState struct {

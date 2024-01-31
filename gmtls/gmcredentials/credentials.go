@@ -22,8 +22,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/tjfoc/gmsm/gmtls"
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/aiguo187/tjfoc-gm/gmtls"
+	"github.com/aiguo187/tjfoc-gm/x509"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc/credentials"
 )
